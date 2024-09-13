@@ -27,14 +27,17 @@ Skills
 
 Projects
 ======
+
+
 <table>
 <td  width="45%" style="vertical-align:middle;">
-     <iframe width="354px" height="225px" src="https://player.bilibili.com/player.html?isOutside=true&aid=113062933695302&bvid=BV173Hqe2EW3&cid=25694374217&p=1" scrolling="no" border="0" frameborder="0" framespacing="0"> </iframe><br/></td>
+     <iframe width="354px" height="225px" src="https://player.bilibili.com/player.html?isOutside=true&aid=113062933695302&bvid=BV173Hqe2EW3&cid=25694374217&p=1" scrolling="no" border="0" frameborder="0" framespacing="0"> </iframe><br/>
+</td>
 <td width="55%" style="vertical-align:top;">
     <big><big><strong>Apple Vision Pro Teleoperation </strong></big></big><br/>
        We implemented the Demo of <a href="https://github.com/unitreerobotics/avp_teleoperate">TeleVison</a>.
-       We use the realman RM65 arm and the Inspire dexterous hand to build the experiment platform.The teleoperation system can be used to collect dual arm mobile platform joints and sensors data for imitation learning and embodied AI. Hand retargeting is solved using <a href="https://github.com/dexsuite/dex-retargeting">dexipilot</a>.The message communication is implemented by <a href="https://grpc.io">gRPC.</a> The camera streaming relys on the <a href="https://webrtc.org/?hl=zh-cn"> webrtc<>.
-    </td>
+       We use the realman RM65 arm and the Inspire dexterous hand to build the experiment platform.The teleoperation system can be used to collect dual arm mobile platform joints and sensors data for imitation learning and embodied AI. Hand retargeting is solved using <a href="https://github.com/dexsuite/dex-retargeting">dexipilot</a>.The message communication is implemented by <a href="https://grpc.io">gRPC.</a> The camera streaming relys on the <a href="https://webrtc.org/?hl=zh-cn"> webrtc</a>.
+</td>
 </table> 
 
 <table>
