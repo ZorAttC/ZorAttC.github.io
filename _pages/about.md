@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello~ I am now living in Guangdong, ShenZhen, pursuing my Master's degree in Control Engineering in **Harbin Institute of Technology(ShenZhen)**. Also,I received my bachelor's degree from HITSZ. Now I am a member of [nROS-lab](https://www.nrs-lab.com/), who is doing research and projects on the ground robots for disaster rescue.
+Hello. I am now living in Guangdong, ShenZhen, pursuing my Master's degree in Control Science and Engineering in **Harbin Institute of Technology(ShenZhen)**. Also,I received my bachelor's degree from HITSZ. Now I am a member of [nROS-lab](https://www.nrs-lab.com/), who is doing research and projects on the ground robots for disaster rescue.I am looking for a internship.
 
 Education
 ======
-- Master degree: Harbin Institute of Technology (Shenzhnen), Control Science and Engineering [@nROS-lab](https://www.nrs-lab.com/) 2021/09-2023/06
-- Bachelor degree: Harbin Institute of Technology (Shenzhnen), Automation [@nROS-lab](https://www.nrs-lab.com/) 2017/09-2021/06
+- Master degree: Harbin Institute of Technology (Shenzhnen), Control Science and Engineering [@nROS-lab](https://www.nrs-lab.com/) 2024/09-now
+- Bachelor degree: Harbin Institute of Technology (Shenzhnen), Automation [@nROS-lab](https://www.nrs-lab.com/) 2020/09-2024/06
 
 
 Skills 
