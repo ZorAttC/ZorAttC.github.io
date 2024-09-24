@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am now living in Guangdong, ShenZhen, pursuing my Master's degree in Control Science and Engineering in **Harbin Institute of Technology(ShenZhen)**. Also,I received my bachelor's degree from HITSZ. Now I am a member of [nROS-lab](https://www.nrs-lab.com/), who is doing research and projects on the ground robots for disaster rescue.I am looking for a internship.
+Hello. I am now living in Guangdong, ShenZhen, pursuing my Master's degree in Control Science and Engineering in **Harbin Institute of Technology(ShenZhen)**. Also,I received my bachelor's degree from HITSZ. Now I am a member of [nROS-lab](https://www.nrs-lab.com/), who is doing research and projects on the ground robots for disaster rescue.
 
 Education
 ======
@@ -69,6 +69,7 @@ Projects
 
 Publications
 ======
-ASAP....
+**Real-Time LiDAR Point Cloud Compression and Transmission for
+Resource-constrained Robots.** *Yuhao Cao, Yu Wang and Haoyao Chen (ICRA2025 submitted)*
 
 ------
