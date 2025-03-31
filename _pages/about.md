@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello. I am now living in Guangdong, ShenZhen, pursuing my Master's degree in Control Science and Engineering in **Harbin Institute of Technology(ShenZhen)**. Also,I received my bachelor's degree from HITSZ. Now I am a member of [nROS-lab](https://www.nrs-lab.com/), who is doing research and projects on the ground robots for disaster rescue.
+Hello. I am now living in Guangdong, ShenZhen, pursuing my Master's degree in Control Science and Engineering in **Harbin Institute of Technology(ShenZhen)**. Also,I received my bachelor's degree from HITSZ. Now I am a member of [nROS-lab](https://www.nrs-lab.com/), who is doing research and projects on Vision-Language-Action Model and Open-vocabulary Mobile Manipulation.
 
-Education
+Education & Internship
 ======
-- Master degree: Harbin Institute of Technology (Shenzhnen), Control Science and Engineering [@nROS-lab](https://www.nrs-lab.com/) 2024/09-now
-- Bachelor degree: Harbin Institute of Technology (Shenzhnen), Automation [@nROS-lab](https://www.nrs-lab.com/) 2020/09-2024/06
+- Internship: [**LimX Dynamics**](https://www.limxdynamics.com/en), Embodied AI and Manipulation Group. 2024/11--2025/04
+- Master degree: Harbin Institute of Technology (Shenzhnen), Control Science and Engineering [@nROS-lab](https://www.nrs-lab.com/) 2024/09--now
+- Bachelor degree: Harbin Institute of Technology (Shenzhnen), Automation [@nROS-lab](https://www.nrs-lab.com/) 2020/09--2024/06
 
 
 Skills 
@@ -42,6 +43,16 @@ Projects
 
 <table>
 <td  width="45%" style="vertical-align:middle;">
+     <iframe width="354px" height="225px" src="https://player.bilibili.com/player.html?isOutside=true&aid=114001769930414&bvid=BV1GHKKeyE1N&cid=28388295236&p=1" scrolling="no" border="0" frameborder="0" framespacing="0"> </iframe><br/></td>
+<td width="55%" style="vertical-align:top;">
+    <big><big><strong>LimX VGM </strong></big></big><br/>
+    The embodied operation algorithm LimX VGM based on a video generation large model: By post-training the existing video generation large model with human operation video data, it requires only scene images and operation task instructions as prompts to achieve the full process of task understanding and decomposition, object manipulation trajectory generation, and robot operation execution. The entire process uses zero real-machine sample data and achieves generalization across multiple platforms. This is the first time in China that human operation data has been directly applied to robot operations.
+    </td>
+</table> 
+
+
+<table>
+<td  width="45%" style="vertical-align:middle;">
      <iframe width="354px" height="225px" src="https://player.bilibili.com/player.html?isOutside=true&aid=706447463&bvid=BV1eQ4y1t7cz&cid=1345809450&p=1" scrolling="no" border="0" frameborder="0" framespacing="0"> </iframe><br/></td>
 <td width="55%" style="vertical-align:top;">
     <big><big><strong>VR Immersive Viuslization </strong></big></big><br/>
@@ -67,9 +78,10 @@ Projects
 </table> 
 
 
+
 Publications
 ======
 **Real-Time LiDAR Point Cloud Compression and Transmission for
-Resource-constrained Robots.** *Yuhao Cao, Yu Wang and Haoyao Chen (ICRA2025 submitted)*
+Resource-constrained Robots.** *Yuhao Cao, Yu Wang and Haoyao Chen (ICRA2025 accepted)* [arxiv](https://github.com/ZorAttC/RCPCC) [bilibili]()
 
 ------
