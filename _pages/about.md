@@ -82,6 +82,6 @@ Projects
 Publications
 ======
 **Real-Time LiDAR Point Cloud Compression and Transmission for
-Resource-constrained Robots.** *Yuhao Cao, Yu Wang and Haoyao Chen (ICRA2025 accepted)* [arxiv](https://github.com/ZorAttC/RCPCC) [bilibili]()
+Resource-constrained Robots.** *Yuhao Cao, Yu Wang and Haoyao Chen (ICRA2025 accepted)* [arxiv](https://github.com/ZorAttC/RCPCC) [bilibili](https://www.bilibili.com/video/BV1XrZHYqEBE/?vd_source=5afc90db9c8787a059e3d9c402d20d33) [github](https://github.com/HITSZ-NRSL/RCPCC)
 
 ------
